@@ -39,10 +39,21 @@ Open index.html in your preferred web browser to view the web player.
 3. Font Awesome: For icons.
 
 ## Screenshots
-Screenshot.png
+![](https://github.com/ayushnegi127/spotify-web-player-clone/blob/main/screenshot/Screenshot.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or commercial purposes.
+
+## Acknowledgements
+
+- The design and inspiration for this project come from the official Spotify website.
+- Special thanks to the open-source community for providing helpful resources and tutorials on web development.
+
+
+
+---
+
+Enjoy exploring the code and creating your own Spotify-like home pages!   
