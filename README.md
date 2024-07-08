@@ -7,7 +7,6 @@ A web-based music player that mimics the look and feel of Spotify's web player. 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
@@ -33,36 +32,14 @@ To run this project locally, follow these steps:
 ## Usage
 Open index.html in your preferred web browser to view the web player.
 
-## File Structure
-spotify-web-player-clone/
-├── index.html
-├── style.css
-├── README.md
-├── icon/
-│   ├── album.png
-│   ├── backward_icon.png
-│   ├── card1img.jpeg
-│   ├── card2img.jpeg
-│   ├── card3img.jpeg
-│   ├── card4img.jpeg
-│   ├── card5img.jpeg
-│   ├── card6img.jpeg
-│   ├── forward_icon.png
-│   ├── library_icon.png
-│   ├── logo.png
-│   ├── player_icon1.png
-│   ├── player_icon2.png
-│   ├── player_icon3.png
-│   ├── player_icon4.png
-│   ├── player_icon5.png
 
 ## Technologies Used
-HTML5: For structuring the web page.
-CSS3: For styling the web page.
-Font Awesome: For icons.
+1. HTML5: For structuring the web page.
+2. CSS3: For styling the web page.
+3. Font Awesome: For icons.
 
 ## Screenshots
-
+![](screenshot/screenshot.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
