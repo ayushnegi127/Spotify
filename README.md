@@ -39,7 +39,7 @@ Open index.html in your preferred web browser to view the web player.
 3. Font Awesome: For icons.
 
 ## Screenshots
-![](Screenshot/screenshot.png)
+Screenshot.png
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
