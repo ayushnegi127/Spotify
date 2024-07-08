@@ -40,6 +40,8 @@ Open index.html in your preferred web browser to view the web player.
 
 ## Screenshots
 ![](https://github.com/ayushnegi127/spotify-web-player-clone/blob/main/screenshot/Screenshot.png)
+![](https://github.com/ayushnegi127/spotify-web-player-clone/blob/main/screenshot/1.png)
+![](https://github.com/ayushnegi127/spotify-web-player-clone/blob/main/screenshot/2.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
